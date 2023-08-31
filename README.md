@@ -13,3 +13,7 @@ There we used heading tag and paragraph tag with two images.
 ## 3. button tag
 
 Here we learned to use input field with text, password, file. and then sign up! button
+
+## 4. replicating google
+
+with google image, input search box and two button center aligned with css
