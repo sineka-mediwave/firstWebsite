@@ -19,3 +19,17 @@ Here we learned to use input field with text, password, file. and then sign up! 
 with google image, input search box and two button center aligned with css
 
 ## 5. Anchor Tag
+
+this anchor tag redirect to the github page.
+
+## 6. Adding anchor tag to google page
+
+that redirect to empty html page which redirect to google itself.
+
+## 7. Aside List
+
+### unordered list
+
+It has bullet points for list items
+
+### ordered list
