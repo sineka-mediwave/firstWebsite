@@ -1,0 +1,16 @@
+.main img {
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+.main {
+    background-color: rgb(152, 207, 135);
+    margin-top:10px;
+    margin-right: 40px;
+    padding: 30px;
+}
+
+.content {
+    margin-bottom: 20px;
+}

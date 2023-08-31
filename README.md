@@ -33,3 +33,8 @@ that redirect to empty html page which redirect to google itself.
 It has bullet points for list items
 
 ### ordered list
+
+## 8. personal website
+
+with my image and some fun facts
+styling with margin and padding
